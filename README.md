@@ -40,4 +40,5 @@ This Hotel Management System is a C++ project designed to manage hotel bookings,
 
 1. Clone the repository:
    ```bash
-https://github.com/eysn/Project-Cpp.git
+git clone https://github.com/eysn/Project-Cpp.git
+cd Project-Cpp
